@@ -1,0 +1,12 @@
+  
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - appmode
+  - ipython
+  - ipywidgets
+  - plotly
+  - xlrd
+  - pip:
+    - cufflinks
