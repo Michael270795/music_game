@@ -6,7 +6,4 @@ dependencies:
   - appmode
   - ipython
   - ipywidgets
-  - plotly
-  - xlrd
-  - pip:
-    - cufflinks
+
