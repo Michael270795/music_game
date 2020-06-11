@@ -4,6 +4,8 @@ channels:
 dependencies:
   - python
   - appmode
+  - pandas
+  - random
   - ipython
   - ipywidgets
 
